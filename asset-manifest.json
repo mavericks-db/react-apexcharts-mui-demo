@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5293f11f.css",
-    "main.js": "/static/js/main.ab9f6fb6.js",
-    "static/js/787.636de6b1.chunk.js": "/static/js/787.636de6b1.chunk.js",
-    "index.html": "/index.html",
-    "main.5293f11f.css.map": "/static/css/main.5293f11f.css.map",
-    "main.ab9f6fb6.js.map": "/static/js/main.ab9f6fb6.js.map",
-    "787.636de6b1.chunk.js.map": "/static/js/787.636de6b1.chunk.js.map"
+    "main.css": "/mavericks-db/react-apexcharts-mui-demo/static/css/main.5293f11f.css",
+    "main.js": "/mavericks-db/react-apexcharts-mui-demo/static/js/main.15b1ce2c.js",
+    "static/js/787.636de6b1.chunk.js": "/mavericks-db/react-apexcharts-mui-demo/static/js/787.636de6b1.chunk.js",
+    "index.html": "/mavericks-db/react-apexcharts-mui-demo/index.html",
+    "main.5293f11f.css.map": "/mavericks-db/react-apexcharts-mui-demo/static/css/main.5293f11f.css.map",
+    "main.15b1ce2c.js.map": "/mavericks-db/react-apexcharts-mui-demo/static/js/main.15b1ce2c.js.map",
+    "787.636de6b1.chunk.js.map": "/mavericks-db/react-apexcharts-mui-demo/static/js/787.636de6b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5293f11f.css",
-    "static/js/main.ab9f6fb6.js"
+    "static/js/main.15b1ce2c.js"
   ]
 }
